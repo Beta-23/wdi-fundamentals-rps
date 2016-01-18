@@ -112,7 +112,7 @@ console.log("Let's play Rock, Paper, Scissors");
               computerWins += 1;
           }
         
-         console.log("Your Score " + playerWins + " point, ALPHABET Scores " + computerWins + " point" + "\n");
+         console.log("Your Score " + playerWins + " points, ALPHABET Scores " + computerWins + " points" + "\n");
       }
   
       if (playerWins === 5) {
